@@ -4,7 +4,7 @@ type = "Standalone"
 status = "Active"
 staffQuality = "Good"
 access = "Invite"
-website = "https://nyup.net/"
+website = "https://nyup.net"
 
 [features]
 movement = true
