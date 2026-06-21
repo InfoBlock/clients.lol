@@ -1,0 +1,15 @@
+name = "Skill Issue"
+os = "Windows"
+type = "Standalone"
+status = "Active"
+staffQuality = "Excellent"
+access = "Paid"
+website = "https://skillissue.one/"
+
+[features]
+movement = true
+esp = true
+teleports = true
+vr = true
+crashers = false
+protections = true
