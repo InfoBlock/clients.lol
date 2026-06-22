@@ -1,8 +1,0 @@
-interface:
-  display_name: "Add Client"
-  short_description: "Add or update clients.lol TOML entries"
-  brand_color: "#2F3437"
-  default_prompt: "Use $add-client to add a new client entry to clients.lol."
-
-policy:
-  allow_implicit_invocation: true
