@@ -1,8 +1,8 @@
 name = "Skill Issue"
 os = "Windows"
-type = "Standalone"
+type = "BepInEx"
 status = "Active"
-staffQuality = "Excellent"
+staffQuality = "Unknown"
 access = "Paid"
 website = "https://skillissue.one/"
 
