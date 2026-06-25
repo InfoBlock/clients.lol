@@ -18,7 +18,6 @@ export const Client = z
     access: z.enum(["Free", "Invite", "Paid"]),
     features: Features,
     id: z.string(),
-    lastUpdated: z.coerce.date().optional(),
     name: z.string().min(nonEmpty),
     os: z.string().min(nonEmpty),
     staffQuality: z.enum(["Excellent", "Good", "Average", "Poor", "Unknown"]),
