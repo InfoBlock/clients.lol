@@ -46,13 +46,8 @@ crashers = false
 protections = false
 ```
 
-`website` and `lastUpdated` are optional. Omit `website` when there is no
-reliable public product URL or invite. Use `lastUpdated` only when the date is
-meaningful and sourced:
-
-```toml
-lastUpdated = "2026-04-30"
-```
+`website` is optional. Omit it when there is no reliable public product URL or
+invite.
 
 ## Accepted values
 
